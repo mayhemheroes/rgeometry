@@ -1,0 +1,6 @@
+project: rgeometry
+target: hull
+duration: 300
+
+cmds:
+  - cmd: /hull
